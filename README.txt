@@ -1,5 +1,4 @@
 -- Jordan Bottrell--
--- 1250 6284 --
 
 - Make sure the 'aiml' and 'aiml_data' folders are in the same directory as 'chatbot.py', which holds the main functionality of the bot. 
 
