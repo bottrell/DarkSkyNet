@@ -1,5 +1,4 @@
-DarkSkyNet ChatBot
-------
+--- DarkSkyNet Chatbot ---
 
 - Make sure the 'aiml' and 'aiml_data' folders are in the same directory as 'chatbot.py', which holds the main functionality of the bot. 
 
